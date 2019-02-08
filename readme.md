@@ -1,3 +1,5 @@
+# [DEPRECATED] check https://github.com/absolunet/nwayo
+
 # nwayo CLI
 
 [![npm](https://img.shields.io/npm/v/@absolunet/nwayo-cli.svg)](https://www.npmjs.com/package/@absolunet/nwayo-cli)
